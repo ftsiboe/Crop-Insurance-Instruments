@@ -23,7 +23,7 @@ For additional details, please contact Francis Tsiboe at francis.tsiboe@usda.gov
 2. [Large share of 2022 spring wheat planted after final crop insurance planting dates.](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=105047)
 1. [Factors Influencing Prevented Planting for Spring Wheat](https://www.ers.usda.gov/publications/pub-details/?pubid=104730)
 
-# FCIP related published journal articles co-authored by Tsiboe
+**FCIP related published journal articles co-authored by Tsiboe**
 1.	Utilizing Large-Scale Insurance Datasets to Calibrate Sub-County Level Crop Yields. (forthcoming in Journal of Risk and Insurance)
 2.	Mitigating Structural Inequities in U.S. Agricultural Risk Management. (forthcoming in Journal of Agricultural and Applied Economics)
 3.	[Actuarial implications of prevented planting coverage.](https://doi.org/10.1002/aepp.13471) 
