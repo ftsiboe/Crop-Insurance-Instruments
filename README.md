@@ -6,3 +6,9 @@ The repository provides data and replication codes for the United States Crop In
 
 Start by reading “readMe_this_directory.docx”
 
+# Acknowledgments
+The findings and conclusions in associated publications and their associated replication files and data provided in this repository are those of the author(s) and should not be construed to represent any official USDA or U.S. Government determination or policy. 
+
+# Correspondence
+For additional details, please contact Francis Tsiboe at francis.tsiboe@usda.gov or ftsiboe@hotmail.com
+
