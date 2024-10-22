@@ -12,7 +12,7 @@ The findings and conclusions in associated publications and their associated rep
 # Correspondence
 For additional details, please contact Francis Tsiboe at francis.tsiboe@usda.gov or ftsiboe@hotmail.com
 
-# FCIP related officaial U.S. Govenmrnt Publications co-authored by Tsiboe
+# FCIP related officaial Publications co-authored by Tsiboe
 
 1. [Crop Insurance at a Glance Topic Page ](https://www.ers.usda.gov/topics/farm-practices-management/risk-management/crop-insurance-at-a-glance/)
 2. [2022 Census of Agriculture: Crop and livestock insurance payouts per recipient were higher in the Great Plains and Mountain regions.](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=109664)
@@ -26,13 +26,13 @@ For additional details, please contact Francis Tsiboe at francis.tsiboe@usda.gov
 1. [Factors Influencing Prevented Planting for Spring Wheat](https://www.ers.usda.gov/publications/pub-details/?pubid=104730)
 
 # FCIP related published journal articles co-authored by Tsiboe
-•	Utilizing Large-Scale Insurance Datasets to Calibrate Sub-County Level Crop Yields. (forthcoming in Journal of Risk and Insurance)
-•	Mitigating Structural Inequities in U.S. Agricultural Risk Management. (forthcoming in Journal of Agricultural and Applied Economics)
-•	[Actuarial implications of prevented planting coverage.](https://doi.org/10.1002/aepp.13471) 
-•	[Evaluation of alternative farm safety net program combination strategies](https://doi.org/10.1108/AFR-11-2023-0150)
-•	[The Crop Insurance Demand Response to Premium Subsidies: Evidence from U.S. Agriculture.](https://doi.org/10.1016/j.foodpol.2023.102505)
-•	[Econometric identification of crop insurance participation](https://doi.org/10.1017/age.2023.13)
-•	[Farm-level evaluation of area- and agroclimatic-based index insurance.](https://doi.org/10.1002/jaa2.77) 
-•	[Utilizing Topographic and Soil Features to Improve Rating for Farm‐Level Insurance Products.](https://doi.org/10.1111/ajae.12218)
-•	[The crop insurance demand response to the Wildfire and Hurricane Indemnity Program Plus.](https://doi.org/10.1002/aepp.13314)
+1.	Utilizing Large-Scale Insurance Datasets to Calibrate Sub-County Level Crop Yields. (forthcoming in Journal of Risk and Insurance)
+2.	Mitigating Structural Inequities in U.S. Agricultural Risk Management. (forthcoming in Journal of Agricultural and Applied Economics)
+3.	[Actuarial implications of prevented planting coverage.](https://doi.org/10.1002/aepp.13471) 
+4.	[Evaluation of alternative farm safety net program combination strategies](https://doi.org/10.1108/AFR-11-2023-0150)
+5.	[The Crop Insurance Demand Response to Premium Subsidies: Evidence from U.S. Agriculture.](https://doi.org/10.1016/j.foodpol.2023.102505)
+6.	[Econometric identification of crop insurance participation](https://doi.org/10.1017/age.2023.13)
+7.	[Farm-level evaluation of area- and agroclimatic-based index insurance.](https://doi.org/10.1002/jaa2.77) 
+8.	[Utilizing Topographic and Soil Features to Improve Rating for Farm‐Level Insurance Products.](https://doi.org/10.1111/ajae.12218)
+9.	[The crop insurance demand response to the Wildfire and Hurricane Indemnity Program Plus.](https://doi.org/10.1002/aepp.13314)
 
