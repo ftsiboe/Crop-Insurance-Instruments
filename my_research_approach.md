@@ -1,1 +1,2 @@
-
+# Statement of Research Interests and Experience
+My research is guided by a commitment to informing evidence-based agricultural policy. To date, I have authored 10 official U.S. Government publications; 47 peer-reviewed journal articles or book chapters; and presented numerous conference papers and posters. According to Google Scholar, my work has garnered 1,126 citations, and I currently hold an h-index and i10-index of 14 and 17, respectively. A detailed overview of my disciplinary and interdisciplinary contributions, which underpin these metrics, is provided in my attached curriculum vitae (CV). Below, I outline my overarching research approach
