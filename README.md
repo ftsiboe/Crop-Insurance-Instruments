@@ -17,7 +17,7 @@ This repository centralizes my research outputs, analytical tools, and resources
 
 **Contributions:** Community contributions are warmly welcomed. Please feel free to open issues, submit pull requests, or provide feedback and suggestions to further enrich the resources provided here.
 
-**FCIP related official publications co-authored by Tsiboe**
+**My co-authored publications on farm safety net programs overview**
 1. [Potential Budgetary Impacts of Climate Change on the Pasture, Rangeland, and Forage Insurance Plan](https://doi.org/10.32747/2024.8755000.ers)
 2. [Recent Developments in Ad Hoc Assistance Programs for Agricultural Producers](https://doi.org/10.32747/2024.8633521.ers)
 3. [Crop Insurance at a Glance Topic Page ](https://www.ers.usda.gov/topics/farm-practices-management/risk-management/crop-insurance-at-a-glance/)
@@ -31,7 +31,7 @@ This repository centralizes my research outputs, analytical tools, and resources
 12. [Large share of 2022 spring wheat planted after final crop insurance planting dates.](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=105047)
 13. [Factors Influencing Prevented Planting for Spring Wheat](https://www.ers.usda.gov/publications/pub-details/?pubid=104730)
 
-**FCIP related published journal articles co-authored by Tsiboe**
+**My co-authored publications on farm safety net program interactions with the farm economy**
 1.	[Utilizing Large-Scale Insurance Datasets to Calibrate Sub-County Level Crop Yields.](https://doi.org/10.1111/jori.12494)
 2.	[Mitigating Structural Inequities in U.S. Agricultural Risk Management.](https://doi.org/10.1017/aae.2024.29)
 3.	[Actuarial implications of prevented planting coverage.](https://doi.org/10.1002/aepp.13471) 
