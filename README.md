@@ -1,5 +1,7 @@
 
-# US Farm Safety Net Toolkit
+# US Farm Safety Net Lab
+
+**Acknowledgment:**  The findings and conclusions in associated publications and their associated replication files and data provided in this repository are those of the author(s) and should not be construed to represent any official USDA or U.S. Government determination or policy.
 
 This repository centralizes my research outputs, analytical tools, and resources exploring and evaluating the United States agricultural safety net programs. My work categorizes these government programs into three main groups based on the type and scope of risks they address:
 
