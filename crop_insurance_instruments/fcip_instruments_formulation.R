@@ -5,11 +5,14 @@
 # 2. Tsiboe,F. and Turner, D., 2023. The crop insurance demand response to premium subsidies: Evidence from US Agriculture. Food Policy, 119. https://doi.org/10.1016/j.foodpol.2023.102505
 
 rm(list=ls(all=TRUE));gc();library(data.table);library(magrittr)
+
+dir_datasets <- gsub("crop_insurance_instruments","datasets",getwd())
+
 # Read and process the Sum of Business Coverages (SOBCOV) dataset
 sobcov <- as.data.frame(
   data.table::rbindlist(
     lapply(
-      list.files(recursive = T,full.names = T,pattern = "sobcov_"),
+      list.files(paste0(dir_datasets,"/sob"),recursive = T,full.names = T,pattern = "sobcov_"),
       function(file){
         return(readRDS(file))
       }), fill = TRUE))
@@ -22,7 +25,7 @@ sobcov <- sobcov[, .(net_acre = sum(net_acre_qty, na.rm = TRUE),
                  by = c("crop_yr","state_cd","state_ab","county_cd","county","crop_cd","crop")]
 
 # Read and process the Sum of Business Coverage for Standard Commodity (SOBSCC) dataset
-sobscc <- readRDS("sobscc_1948_1990.rds")
+sobscc <- readRDS(paste0(dir_datasets,"/sob/sobscc_1948_1990.rds"))
 setDT(sobscc)
 sobscc <- sobscc[, .(net_acre = sum(net_acre_qty, na.rm = TRUE),
                      liability_amt = sum(liability_amt, na.rm = TRUE),
@@ -147,7 +150,7 @@ instruments <- dplyr::full_join(instruments,adm, by=names(instruments)[names(ins
 yu2018 <- as.data.frame(
   data.table::rbindlist(
     lapply(
-      list.files(recursive = T,full.names = T,pattern = "sobcov_"),
+      list.files(paste0(dir_datasets,"/sob"),recursive = T,full.names = T,pattern = "sobcov_"),
       function(file){
         return(readRDS(file))
       }), fill = TRUE))
