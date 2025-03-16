@@ -26,11 +26,8 @@ This repository centralizes my research outputs, analytical tools, and resources
 * [2022 Census of Agriculture: More cropland covered by crop insurance. USDA, Economic Research Service Charts of Note. ](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=109404#:~:text=While%20percent%20share%20of%20cropland,percent%20from%202017%20to%202022.)
 * [Federal Programs for Agricultural Risk Management](https://dx.doi.org/10.32747/2023.8321812.ers)
 * [Pasture, Rangeland, and Forage Drive Increased Participation in Federal Crop Insurance Program.](https://www.ers.usda.gov/amber-waves/2024/june/pasture-rangeland-and-forage-drive-increased-participation-in-federal-crop-insurance-program/)
-* [U.S. Agricultural Policy Review, 2023.](https://doi.org/10.32747/2024.8754393.ers)
-* [U.S. Agricultural Policy Review, 2022.](https://doi.org/10.32747/2023.8134363.ers)
-* [U.S. Agricultural Policy Review, 2021.](https://www.ers.usda.gov/publications/pub-details?pubid=105901)
+* U.S. Agricultural Policy Review   [2021](https://www.ers.usda.gov/publications/pub-details?pubid=105901)    [2022](https://doi.org/10.32747/2023.8134363.ers)    [2023](https://doi.org/10.32747/2024.8754393.ers)  
 * [Large share of 2022 spring wheat planted after final crop insurance planting dates.](https://www.ers.usda.gov/data-products/chart-gallery/gallery/chart-detail/?chartId=105047)
-* [Factors Influencing Prevented Planting for Spring Wheat](https://www.ers.usda.gov/publications/pub-details/?pubid=104730)
 
 **My co-authored publications on farm safety net program interactions with the farm economy**
 *	[Utilizing Large-Scale Insurance Datasets to Calibrate Sub-County Level Crop Yields.](https://doi.org/10.1111/jori.12494)    [🗂️⚙️](https://github.com/ftsiboe/US-FarmSafetyNet-Lab/tree/main/fcip_calibrated_yields)
@@ -40,7 +37,8 @@ This repository centralizes my research outputs, analytical tools, and resources
 *	[Evaluation of alternative farm safety net program combination strategies](https://doi.org/10.1108/AFR-11-2023-0150)
 *	[The Crop Insurance Demand Response to Premium Subsidies: Evidence from U.S. Agriculture.](https://doi.org/10.1016/j.foodpol.2023.102505)
 *	[Econometric identification of crop insurance participation](https://doi.org/10.1017/age.2023.13)    [🗂️⚙️](https://github.com/ftsiboe/US-FarmSafetyNet-Lab/tree/main/crop_insurance_instruments)
-*	[Farm-level evaluation of area- and agroclimatic-based index insurance.](https://doi.org/10.1002/jaa2.77) 
+*	[Farm-level evaluation of area- and agroclimatic-based index insurance.](https://doi.org/10.1002/jaa2.77)
+*	[Factors Influencing Prevented Planting for Spring Wheat](https://www.ers.usda.gov/publications/pub-details/?pubid=104730)
 *	[Utilizing Topographic and Soil Features to Improve Rating for Farm‐Level Insurance Products.](https://doi.org/10.1111/ajae.12218)
 *	[The crop insurance demand response to the Wildfire and Hurricane Indemnity Program Plus.](https://doi.org/10.1002/aepp.13314)
 
