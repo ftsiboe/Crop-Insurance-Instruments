@@ -19,7 +19,4 @@ This repository centralizes my research outputs, analytical tools, and resources
 
 **Contributions:** Community contributions are warmly welcomed. Please feel free to open issues, submit pull requests, or provide feedback and suggestions to further enrich the resources provided here.
 
-Follow the links below to explore other pages in this repository
-
-[Publications co-authored by Francis Tsiboe](https://github.com/ftsiboe/US-FarmSafetyNet-Lab/wiki/Publications-co%E2%80%90authored-by-Francis-Tsiboe)
-
+**US-FarmSafetyNet-Lab wiki** Go to the [wiki page](https://github.com/ftsiboe/US-FarmSafetyNet-Lab/wiki) to explore other pages in this repository
