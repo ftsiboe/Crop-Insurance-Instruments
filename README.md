@@ -20,3 +20,5 @@ This repository centralizes research outputs, analytical tools, and resources ex
 **Contributions:** Community contributions are warmly welcomed. Please feel free to open issues, submit pull requests, or provide feedback and suggestions to further enrich the resources provided here.
 
 Go to the [**US-FarmSafetyNet-Lab wiki**](https://github.com/ftsiboe/US-FarmSafetyNet-Lab/wiki/US%E2%80%90FarmSafetyNet%E2%80%90Lab-wiki-%E2%80%90-Home) to explore other pages in this repository
+
+If you find it useful, please star this project and cite our papers found at [Publications co‐authored by Contributors](https://github.com/ftsiboe/US-FarmSafetyNet-Lab/wiki/Publications-co%E2%80%90authored-by-Contributors)
