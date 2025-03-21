@@ -1,6 +1,6 @@
 
 # Datasets
-This directory houses the various datasets utilized in my research. Each dataset is public and supports analysis of the Federal Crop Insurance Program (FCIP). Below are descriptions of each dataset:
+This directory houses the various datasets utilized in U.S farm safety net research. Each dataset is public and supports analysis of the Federal Crop Insurance Program (FCIP). Below are descriptions of each dataset:
 
 **adm:** Extracted from the Risk Management Agency’s (RMA) Actuarial Data Master (ADM), this dataset includes detailed policy information relevant to the FCIP.
 
