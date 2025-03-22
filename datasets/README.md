@@ -6,6 +6,6 @@ This directory houses the various datasets we have utilized in U.S farm safety n
 
 **soil:** Houses county level aggregated soil data from GSSURGO.
 
-**weather:** Houses county level aggregated weather data from PRISM.
+**weather:** Houses county level aggregated weather data from various sources (e.g., PRISM, IMERG, ect).
 
 For any questions or additional information regarding these datasets, feel free to open an issue or contact us directly through GitHub.
