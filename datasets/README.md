@@ -10,4 +10,4 @@ This directory houses the various datasets utilized in U.S farm safety net resea
 
 **prices:** This is my compiled dataset aggregating commodity prices from various sources, intended to assist in analyzing economic impacts on agriculture.
 
-For any questions or additional information regarding these datasets, feel free to open an issue or contact me directly through GitHub.
+For any questions or additional information regarding these datasets, feel free to open an issue or contact us directly through GitHub.
