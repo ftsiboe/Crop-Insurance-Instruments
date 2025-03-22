@@ -8,6 +8,14 @@ This directory houses the various datasets utilized in U.S farm safety net resea
 
 **col:** Derived from RMA’s Cause of Loss (COL) reports, this dataset offers summarized information on FCIP participation, segmented by different causes of loss.
 
-**prices:** This is my compiled dataset aggregating commodity prices from various sources, intended to assist in analyzing economic impacts on agriculture.
+**reinsurance:** 
+
+**calibrated_yield:** 
+
+**target_rates:** 
+
+**fcip_verse:** 
+
+**agent_locator_export:** 
 
 For any questions or additional information regarding these datasets, feel free to open an issue or contact us directly through GitHub.
