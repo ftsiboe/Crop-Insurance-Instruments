@@ -27,5 +27,5 @@ Below are descriptions of each dataset:
 
 **pp_factors:** Prevent Plant Guarantee Adjustment Factor
 
-
+**prices:** FCIP commodity prices.
 
