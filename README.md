@@ -3,7 +3,7 @@
 
 **Acknowledgment:**  The findings and conclusions in associated publications and their associated replication files and data provided in this repository are those of the author(s) and should not be construed to represent any official USDA or U.S. Government determination or policy.
 
-This repository centralizes my research outputs, analytical tools, and resources exploring and evaluating the United States agricultural safety net programs. My work categorizes these government programs into three main groups based on the type and scope of risks they address:
+This repository centralizes research outputs, analytical tools, and resources exploring and evaluating the United States agricultural safety net programs. These government programs can be categorized into three main groups based on the type and scope of risks they address:
 
 1. **Farm-Specific Risk Management Programs:** These programs, such as the Federal Crop Insurance Program (FCIP) and the Noninsured Crop Disaster Assistance Program (NAP), are designed to manage farm-level risks including pests and disease outbreaks, localized flooding, and equipment failure. Producers participating in these programs pay premiums for coverage.
   
@@ -20,3 +20,5 @@ This repository centralizes my research outputs, analytical tools, and resources
 **Contributions:** Community contributions are warmly welcomed. Please feel free to open issues, submit pull requests, or provide feedback and suggestions to further enrich the resources provided here.
 
 Go to the [**US-FarmSafetyNet-Lab wiki**](https://github.com/ftsiboe/US-FarmSafetyNet-Lab/wiki/US%E2%80%90FarmSafetyNet%E2%80%90Lab-wiki-%E2%80%90-Home) to explore other pages in this repository
+
+If you find it useful, please star this project and cite our papers found at [Publications co‐authored by Contributors](https://github.com/ftsiboe/US-FarmSafetyNet-Lab/wiki/Publications-co%E2%80%90authored-by-Contributors)
