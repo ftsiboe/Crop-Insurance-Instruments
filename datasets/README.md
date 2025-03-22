@@ -10,12 +10,12 @@ This directory houses the various datasets utilized in U.S farm safety net resea
 
 **reinsurance:** 
 
-**calibrated_yield:** 
+**cal_yield:** 
 
 **target_rates:** 
 
 **fcip_verse:** 
 
-**agent_locator_export:** 
+**agent_loc:** 
 
 For any questions or additional information regarding these datasets, feel free to open an issue or contact us directly through GitHub.
